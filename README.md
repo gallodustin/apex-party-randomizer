@@ -6,3 +6,6 @@
 * Download the file randomizer.exe
 * Run it!
 * Save it somewhere you'll be able to find for next time
+
+## Note to self
+* the executable was compiled on Windows using the command `python -m PyInstaller --onefile randomizer.py`
